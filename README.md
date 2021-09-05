@@ -1,6 +1,6 @@
 # Event Booster
 
-Ticket ordering service. <br> Academic team project. Adaptive web design
+Ticket ordering service. <br> Academic team project. Adaptive web design.
 
 ### Developed by:
 
