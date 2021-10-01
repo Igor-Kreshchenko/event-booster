@@ -4,7 +4,7 @@ Ticket ordering service. <br> Academic team project. Adaptive web design.
 
 ### Developed by:
 
-- [Klem26](https://github.com/Klem26)
+- [Tetiana](https://github.com/Klem26)
 - [Aleksandra Knott](https://github.com/Sasha-create)
 - [Alena Botyanovskaya](https://github.com/obotyanovska)
 - [Irina Murashka](https://github.com/irvil-js)
